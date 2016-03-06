@@ -3,10 +3,10 @@ vtest is a visual testing framework. It also doesn't exist yet.
 
 ## Simple Example
 Here we're looking at the python function `startswith`. Yes, this is incredibly simplistic. 1 represents truth and 0 falsity. We're testing the function on all possible 3 length strings, in order to see how it behaves. The particular function here is `s.startswith("g") or s.startswith("&")`, we can see here that it returns true from `&!!` to `&~~` and  `g!!` to `g~~`. Great thats exactly what we wanted.
-![Simple Demo]({{baseurl}}/public/img/vtest/simple.png)
+![Simple Demo](http://raw.githubusercontent.com/devinmcgloin/vtest/master/img/simple.png)
 
 This obviously works for math as well. Here's `x^3/3`
-![Math Demo]({{baseurl}}/public/img/vtest/math.png)
+![Math Demo](http://raw.githubusercontent.com/devinmcgloin/vtest/master/img/math.png)
 
 ## Open Questions
 
