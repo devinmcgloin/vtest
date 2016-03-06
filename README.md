@@ -1,4 +1,4 @@
-# Visial Testing
+# Visual Testing
 vtest is a visual testing framework. It also doesn't exist yet.
 
 ## Simple Example
